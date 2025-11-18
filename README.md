@@ -15,12 +15,14 @@ Zuerst Hydration ausrechnen:
 1. Eingabe Mehl und Wasser
 2. Klick *Hydration berechnen*
 3. Berechneter Wert erscheint in der Hydrations Textbox
+  - z.B. 400g Mehl, 200g Wasser ➡️ 50% Hydration
+4. gewünschte Hydration im Hydrationfeld ersetzen,
+  - z.B. 50 mit 60.
+5. Klick auf *Wasser berechnen* (Natürlich auch *Mehl berechnen* möglich)
 
-z.B. 400g Mehl, 200g Wasser -> 50% Hydration
+Ersetzt den alten durch den zur Hydration passenden Wasserwert.
 
-Jetzt gewünschte Hydration im Hydrationfeld ersetzen, z.B. 50 mit 60. Durch Klick auf *Wasser berechnen* erscheint der zur Hydration passende neue Wasserwert. (Natürlich auch mit *Mehl berechnen* möglich)
-
-Konkret: 400g Mehl, 200g Wasser, **60% Hydration** --Klick--> 400g Mehl, **240g Wasser**, 60% Hydration.
+Konkret: 400g Mehl, 200g Wasser, **60% Hydration** ➡️ 400g Mehl, **240g Wasser**, 60% Hydration.
 
 ## Build instruction
 
