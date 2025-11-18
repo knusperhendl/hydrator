@@ -1,7 +1,7 @@
 # Der Hydrator
 
 Einfaches kleines Programm zur Berechnung von Mehl, Wasser und Hydrationsgehalt bei Mehlteigen.
-Fertige Executables gibt es [hier](https://github.com/knusperhendl/hydrator/releases)
+Fertige ausführbare Datei für Windows gibt es hier: [hydrator.exe (v1.0.0)](https://github.com/knusperhendl/hydrator/releases/download/v1.0.0/hydrator.exe)
 
 ![image](img/hydrator.png)
 
