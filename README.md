@@ -5,7 +5,7 @@ Fertige Executables gibt es [hier](https://github.com/knusperhendl/hydrator/rele
 
 ![image](img/hydrator.png)
 
-Einfach zwei Werte eingeben und per Klick den Dritten berechnen. Das lässt sich auch wie im folgenden Beispiel kombinieren.
+Zwei Werte eingeben und per Klick den Dritten berechnen. Das lässt sich auch wie im folgenden Beispiel kombinieren.
 
 ## Anwendungsbeispiel
 
