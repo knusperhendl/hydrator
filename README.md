@@ -27,6 +27,6 @@ Konkret: 400g Mehl, 200g Wasser, **60% Hydration** ➡️ *Wasser berechnen* ➡
 ## Build instruction
 
 ```bash
-nimble install nigui # nigui dependancy
+nimble install nigui # nigui dependency
 nim compile --app:gui -d:release -o:hydrator gui.nim
 ``` 
